@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+    ```
+    *(Other popular lightweight choices are `jekyll-theme-merlot` or `jekyll-theme-architect`)*. 
+
+    Next, create your homepage file named **`index.md`**. This acts as your wiki's landing page. Add some welcome text and standard Markdown links to future pages:
